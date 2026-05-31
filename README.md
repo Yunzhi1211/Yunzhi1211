@@ -55,16 +55,6 @@
 | [cfps-parental-ses](https://github.com/Yunzhi1211/cfps-parental-ses-and-child-outcomes) | Intergenerational Social Mobility Research (CFPS 2010-2022) | Stata |
 | [puppy-growth-app](https://github.com/Yunzhi1211/puppy-growth-app) | Puppy Growth Tracking Application | TypeScript |
 
----
-
-### 🌐 Connect with me
-
-<p align=left>
-  <a href=https://github.com/Yunzhi1211 target=_blank>
-    <img src=https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white alt=GitHub />
-  </a>
-  <!-- TODO: 添加你的 LinkedIn / Twitter / 个人网站 等链接 -->
-</p>
 
 ---
 
