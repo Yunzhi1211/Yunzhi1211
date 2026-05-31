@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **machine learning, NLP, and advanced data visualization**
 - 👯 I'm looking to collaborate on **open-source data science projects**
 - 💬 Ask me about **Python, JavaScript, Stata, and data analysis**
-- 📫 How to reach me: **TODO: 请在这里填写你的邮箱**
+- 📫 How to reach me: **yunzhi.j@foxmail.com**
 - ⚡ Fun fact: **Data never sleeps — neither do I ☕**
 
 ---
