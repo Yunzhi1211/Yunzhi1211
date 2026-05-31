@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Crazy dog lover LOL**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1ffvmoYycpQ6FgvzgdK4u1ze14uD9AoIj/view?usp=sharing](https://drive.google.com/file/d/1ffvmoYycpQ6FgvzgdK4u1ze14uD9AoIj/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/Yunzhi CV](https://drive.google.com/file/d/1ffvmoYycpQ6FgvzgdK4u1ze14uD9AoIj/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
