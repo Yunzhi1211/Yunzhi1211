@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Financial Modelling, Frontend**
 
-- 📫 How to reach me **yunzhi.j@foxmail.com**
+- 📫 How to reach me via **yunzhi.j@foxmail.com**
 
-- ⚡ Fun fact **Crazy dog lover LOL**
+- ⚡ Fun fact is **A Crazy dog lover LOL**
 
 - 📄 Know about my experiences **[https://drive.google.com/Yunzhi CV](https://drive.google.com/file/d/1ffvmoYycpQ6FgvzgdK4u1ze14uD9AoIj/view?usp=sharing)**
 
