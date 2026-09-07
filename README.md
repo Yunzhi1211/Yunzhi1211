@@ -40,8 +40,10 @@
   <img src="nlp.gif" alt="LDA NLP demo" width="600"/>
 </a>
 
-<a href="https://github.com/Yunzhi1211/LDA-Text-Analysis">Repository</a> · 
-<a href="https://yunzhi1211.github.io/LDA-Text-Analysis/lda_results.html">Live Demo</a>
+<br/>
+
+<a href="https://github.com/Yunzhi1211/LDA-Text-Analysis"><img src="https://img.shields.io/badge/View-Repository-111?style=flat-square&logo=github" alt="Repo"/></a>
+<a href="https://yunzhi1211.github.io/LDA-Text-Analysis/lda_results.html"><img src="https://img.shields.io/badge/Live-Demo-059669?style=flat-square&logo=html5&logoColor=white" alt="Demo"/></a>
 
 </td>
 </tr>
