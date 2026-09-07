@@ -1,52 +1,81 @@
-# Hi 👋, I'm Iris
+<h1 align="center">Hi, I'm Iris (Jiang Yunzhi)</h1>
 
-- 🔭 I'm currently working on **an exercise tool for excel shortcuts, especially when doing the financial working papers**
-
-- 🌱 I'm currently learning **backend**
-
-- 👯 I'm looking to collaborate on **interesting practice tools in language learning, habit training or anything**
-
-- 🤝 I'm looking for help with **systematic advice on learning CS qwq**
-
-- 💬 Ask me about **Financial Modelling, Frontend**
-
-- 📫 How to reach me via **yunzhi.j@foxmail.com**
-
-- ⚡ Fun fact is **A Crazy dog lover LOL**
-
-- 📄 Know about my experiences **[https://drive.google.com/Yunzhi CV](https://drive.google.com/file/d/1ffvmoYycpQ6FgvzgdK4u1ze14uD9AoIj/view?usp=sharing)**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuetify" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vuetify" alt="vuetify" width="40" height="40"/> </a></p>
-
-
----
-
-### 📊 GitHub Stats
-
-<p align=center>
-  <img src=https://github-readme-stats.vercel.app/api?username=Yunzhi1211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true alt=GitHub Stats height=165 />
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Yunzhi1211&layout=compact&theme=tokyonight&hide_border=true alt=Top Languages height=165 />
+<p align="center">
+  <b>Building AI tools for language learning & education</b><br/>
+  Python · NLP · courseware pipelines · data-driven prototypes
 </p>
 
-<p align=center>
-  <img src=https://github-readme-streak-stats.herokuapp.com/?user=Yunzhi1211&theme=tokyonight&hide_border=true alt=GitHub Streak />
+<p align="center">
+  <a href="https://github.com/Yunzhi1211/AI-Recording"><img src="https://img.shields.io/badge/Featured-AI%20Courseware-2563eb?style=for-the-badge" alt="Featured"/></a>
+  <a href="mailto:yunzhi.j@foxmail.com"><img src="https://img.shields.io/badge/Email-yunzhi.j@foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://drive.google.com/file/d/1ffvmoYycpQ6FgvzgdK4u1ze14uD9AoIj/view"><img src="https://img.shields.io/badge/CV-PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"/></a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## Featured Work
 
-| Project | Description | Tech Stack |
-|---------|-------------|-------------|
-| [Redbook-Dashboard-Makeup](https://github.com/Yunzhi1211/Redbook-Dashboard-Makeup) | Xiaohongshu Beauty Brand Data Analysis Dashboard | JavaScript |
-| [electricity-project](https://github.com/Yunzhi1211/electricity-project) | Electricity Supply & Demand: scraping, ML imputation, modeling | Python |
-| [puppy-growth-app](https://github.com/Yunzhi1211/puppy-growth-app) | Puppy Growth Tracking Application | TypeScript |
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### AI-Recording
+*PPT + script → TTS → synced teaching video*
+
+<a href="https://github.com/Yunzhi1211/AI-Recording">
+  <img src="assets/ai-recording.gif" alt="AI-Recording demo" width="100%"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Yunzhi1211/AI-Recording"><img src="https://img.shields.io/badge/View-Repository-111?style=flat-square&logo=github" alt="Repo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### LDA Text Analysis
+*NLP topic modeling · interactive visualization*
+
+<a href="https://yunzhi1211.github.io/LDA-Text-Analysis/lda_results.html">
+  <img src="assets/lda-demo.png" alt="LDA interactive demo" width="100%"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Yunzhi1211/LDA-Text-Analysis"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Repo"/></a>
+<a href="https://yunzhi1211.github.io/LDA-Text-Analysis/lda_results.html"><img src="https://img.shields.io/badge/Live-Demo-059669?style=flat-square&logo=html5&logoColor=white" alt="Live Demo"/></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align=center>
-  <i>✨ Inspired by <a href=https://github.com/rahuldkjain>rahuldkjain</a></i>
+## More Projects
+
+<details>
+<summary><b>Click to expand — web apps, dashboards & practice tools</b></summary>
+<br/>
+
+| Project | What it does | Link |
+|---------|--------------|------|
+| **sql-sprint** | SQL practice tool (Python backend) | [Demo](https://yunzhi1211.github.io/sql-sprint/) · [Repo](https://github.com/Yunzhi1211/sql-sprint) |
+| **global-spatial-analysis** | Leaflet dashboard, spatial clustering | [Repo](https://github.com/Yunzhi1211/global-spatial-analysis) |
+| **electricity-project** | SARIMA forecasting pipeline | [Repo](https://github.com/Yunzhi1211/electricity-project) |
+| **puppy-growth-app** | React + TypeScript + Vite | [Repo](https://github.com/Yunzhi1211/puppy-growth-app) |
+
+</details>
+
+<details>
+<summary><b>Tech stack</b></summary>
+<br/>
+
+Python · pandas · statsmodels · gensim · tkinter · R · SQL · HTML/CSS/JS · Leaflet · React · TypeScript
+
+</details>
+
+---
+
+<p align="center">
+  <i>HKU MSc · interested in RA roles at the intersection of AI and language education</i>
 </p>
