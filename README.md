@@ -37,13 +37,11 @@
 *NLP topic modeling · interactive visualization*
 
 <a href="https://yunzhi1211.github.io/LDA-Text-Analysis/lda_results.html">
-  <img src="assets/lda-demo.png" alt="LDA interactive demo" width="100%"/>
+  <img src="nlp.gif" alt="LDA NLP demo" width="600"/>
 </a>
 
-<br/>
-
-<a href="https://github.com/Yunzhi1211/LDA-Text-Analysis"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Repo"/></a>
-<a href="https://yunzhi1211.github.io/LDA-Text-Analysis/lda_results.html"><img src="https://img.shields.io/badge/Live-Demo-059669?style=flat-square&logo=html5&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/Yunzhi1211/LDA-Text-Analysis">Repository</a> · 
+<a href="https://yunzhi1211.github.io/LDA-Text-Analysis/lda_results.html">Live Demo</a>
 
 </td>
 </tr>
