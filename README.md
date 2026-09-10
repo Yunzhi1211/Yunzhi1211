@@ -20,7 +20,7 @@
 <td width="50%" valign="top">
 
 ### AI-Recording
-*PPT + script â†’ TTS â†’ synced teaching video*
+*PPT + script â†?TTS â†?synced teaching video*
 
 <a href="https://github.com/Yunzhi1211/AI-Recording">
   <img src="assets/ai-recording.gif" alt="AI-Recording demo" width="100%"/>
@@ -37,7 +37,7 @@
 *NLP topic modeling Â· interactive visualization*
 
 <a href="https://yunzhi1211.github.io/LDA-Text-Analysis/lda_results.html">
-  <img src="nlp.gif" alt="LDA NLP demo" width="600"/>
+  <img src="nlp.gif" alt="LDA NLP demo" width="100%"/>
 </a>
 
 <br/>
@@ -54,7 +54,7 @@
 ## More Projects
 
 <details>
-<summary><b>Click to expand â€” web apps, dashboards & practice tools</b></summary>
+<summary><b>Click to expand â€?web apps, dashboards & practice tools</b></summary>
 <br/>
 
 | Project | What it does | Link |
