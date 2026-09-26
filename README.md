@@ -18,8 +18,8 @@
   <a href="mailto:yunzhi.j@foxmail.com">
     <img src="https://img.shields.io/badge/Email-yunzhi.j%40foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="assets/CV_CN.pdf">
-    <img src="https://img.shields.io/badge/CV-Chinese%20PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+  <a href="assets/CV_EN.pdf">
+    <img src="https://img.shields.io/badge/CV%20PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
   </a>
 </p>
 
