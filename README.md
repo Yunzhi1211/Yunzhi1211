@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="assets/README_CN.md">中文</a> ·
-  <b>English</b> ·
-  <a href="assets/README_FR.md">Français</a>
+  <a href="README_CN.md">中文</a> ·
+  <a>English</a> ·
+  <a href="README_FR.md">Français</a>
 </p>
 
 <p align="center">
