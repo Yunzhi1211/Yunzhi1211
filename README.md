@@ -15,8 +15,11 @@
   <a href="mailto:yunzhi.j@foxmail.com">
     <img src="https://img.shields.io/badge/Email-yunzhi.j%40foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://www.linkedin.com/in/iris-yunzhi-jiang">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&label=in" alt="LinkedIn"/>
+  </a>
   <a href="assets/CV_EN.pdf">
-    <img src="https://img.shields.io/badge/CV-CV-%20PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+    <img src="https://img.shields.io/badge/-CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000&label=CV" alt="CV"/>
   </a>
 </p>
 
