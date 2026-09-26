@@ -12,14 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yunzhi1211/Yunzhi1211/tree/main/assets">
-    <img src="https://img.shields.io/badge/Featured-AI%20Courseware-2563eb?style=for-the-badge" alt="Featured"/>
-  </a>
   <a href="mailto:yunzhi.j@foxmail.com">
     <img src="https://img.shields.io/badge/Email-yunzhi.j%40foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="assets/CV_CN.pdf">
-    <img src="https://img.shields.io/badge/CV-中文简历-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+    <img src="https://img.shields.io/badge/CV-简历-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
   </a>
 </p>
 
