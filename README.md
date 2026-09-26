@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/Yunzhi1211/AI-Recording"><img src="https://img.shields.io/badge/Featured-AI%20Courseware-2563eb?style=for-the-badge" alt="Featured"/></a>
   <a href="mailto:yunzhi.j@foxmail.com"><img src="https://img.shields.io/badge/Email-yunzhi.j@foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
- <a href="https://github.com/Yunzhi1211/Yunzhi1211/blob/main/CV.pdf">
+ <a href="https://github.com/Yunzhi1211/Yunzhi1211/blob/main/assets/CV.pdf">
   <img src="https://img.shields.io/badge/CV-View%20PDF-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="CV"/>
 </a>
 </p>
@@ -39,7 +39,7 @@
 *NLP topic modeling · interactive visualization*
 
 <a href="https://yunzhi1211.github.io/LDA-Text-Analysis/lda_results.html">
-  <img src="nlp.gif" alt="LDA NLP demo" width="100%"/>
+  <img src="assets/nlp.gif" alt="LDA NLP demo" width="100%"/>
 </a>
 
 <br/>
