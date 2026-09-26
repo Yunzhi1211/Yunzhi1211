@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/Email-yunzhi.j%40foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/iris-yunzhi-jiang">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&label=in" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-iris--yunzhi--jiang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="assets/CV_EN.pdf">
-    <img src="https://img.shields.io/badge/-CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000&label=CV" alt="CV"/>
+    <img src="https://img.shields.io/badge/CV-Download-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
   </a>
 </p>
 
