@@ -1,4 +1,4 @@
-<h1 align="center">你好，我是 Iris（江昀芷）</h1>
+<h1 align="center">你好，我是小江</h1>
 
 <p align="center">
   <b>专注于语言学习与教育领域的 AI 工具开发</b><br/>
