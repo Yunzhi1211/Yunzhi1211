@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Iris (Jiang Yunzhi)</h1>
+<h1 align="center">Hi, I'm Iris </h1>
 
 <p align="center">
   <b>Building AI tools for language learning & education</b><br/>
