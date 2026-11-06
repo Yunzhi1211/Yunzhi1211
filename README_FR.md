@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour, je suis Iris (Jiang Yunzhi)</h1>
+<h1 align="center">Bonjour, je suis Iris </h1>
 
 <p align="center">
   <b>Je développe des outils d'IA pour l'apprentissage des langues et l'éducation</b><br/>
